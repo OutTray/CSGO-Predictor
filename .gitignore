@@ -1,0 +1,18 @@
+# ignores csv and excel files
+*.csv
+*.xlsx
+
+# ignores various drivers
+*.exe
+
+# ignores the logs directory
+
+/logs
+
+#  ignores zip files
+*.zip
+
+# ignores unrelated files
+data_scraper_reference.py
+test_10_min.py
+*.code-workspace
